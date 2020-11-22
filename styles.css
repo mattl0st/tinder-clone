@@ -45,7 +45,7 @@ body{
 .photo {
     width: 98vw;
     height: 85vh;
-    background: url(../imgtinder/pexels-daria-shevtsova-789812.jpg) center center/cover;
+    background: url(./imgtinder/pexels-daria-shevtsova-789812.jpg) center center/cover;
     border-radius: 10px;
     display: flex;
     align-items: flex-end;
